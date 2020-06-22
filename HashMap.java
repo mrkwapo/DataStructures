@@ -1,5 +1,5 @@
 import java.util.HashMap;
-
+//Hashmap
 public class MyClass {
 	public static void main(String[ ] args) {
 		HashMap<Integer, String> points = new HashMap<Integer, String>();
