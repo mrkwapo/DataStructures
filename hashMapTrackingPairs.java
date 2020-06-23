@@ -11,6 +11,6 @@ class Main {
             } else             
                 map.put(number,1);
         }
-        System.out.println(pairs);
+        System.out.println(pairs);//3
   }
 }
